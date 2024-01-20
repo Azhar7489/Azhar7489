@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src ="https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif">
 
 <p align="left">
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Azhar7489"/></p> width="400" 
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Azhar7489" width="400"/></p>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azhar7489&label=Profile%20views&color=0e75b6&style=flat" alt="azhar7489" /> </p>
 
