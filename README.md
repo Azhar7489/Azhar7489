@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azhar7489" alt="azhar7489" /></a> </p>
 
-- 💬 Ask me about **Java, Python, Git&GitHub**
+- 💬 Ask me about **Java, Python, Git&GitHub, JavaScript, TypeScript**
 
 - 📫 How to reach me **mazhar7489@gmail.com**
 
